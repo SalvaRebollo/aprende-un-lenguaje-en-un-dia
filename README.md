@@ -30,7 +30,7 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 Nombre de equipo: The Brainfuckers.
 
-* Salvador Rebollo Benítez
+* Salvador Rebollo Benítez  <--Cabecilla
 * Nacho Espejo García
 * Jose Antonio Ruíz Mostazo
 
