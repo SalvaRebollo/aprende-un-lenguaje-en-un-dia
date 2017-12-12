@@ -52,6 +52,16 @@ Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe 
 
 Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
+Primero comprobamos que tenemos gst instalado, en la consola tecleamos:
+```console
+$ whereis gst 
+gst:
+```
+Si no es así procedemos a la instalación con la siguiente línea:
+```console
+$ sudo apt-get install gnu-smalltalk
+```
+
 ## Poniendo en práctica el lenguaje
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
