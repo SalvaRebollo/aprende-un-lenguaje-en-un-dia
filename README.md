@@ -84,6 +84,8 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 'Hola Mundo!' printNl !
 ```
 
+<img width="320px" src="/imagenes/holamundo.png">
+
 ### 2. Pirámide :heavy_check_mark:
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
