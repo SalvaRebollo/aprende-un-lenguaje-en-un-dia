@@ -46,6 +46,8 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
+<img width="1080px" src="/imagenes/customLogo.png">
+
 * ¿Cuándo se creó?
 Su desarrollo comenzó en 1969 y se hizo público en 1980.
 
