@@ -53,7 +53,7 @@ Su desarrollo comenzó en 1969 y se hizo público en 1980.
 Los orígenes de SmallTalk se encuentran en las invetigaciones para a creaciónn de un sistema informático orientado a la eduacación. El objetivo era crear un sistema que permitiese expandir la creatividad de sus usuarios, proporcionando un entorno para la experimentación, creación e investigación.
 
 * ¿Qué es?
-SmallTalk es un lenguaje de programación orientado a objetos puro, con recolector de basura, también fue uno de los primeros lenguajes de programción gráficos, creado por Alan Kay de Xerox PARC y otros. Mantiene la idea de que "todo es un objeto2, es decir, cuando ingresamos a un entorno de smalltalk, lo que hacemos es enviarles "mensajes" para esperar una respuesta.
+SmallTalk es un lenguaje de programación orientado a objetos puro, con recolector de basura, también fue uno de los primeros lenguajes de programción gráficos, creado por Alan Kay de Xerox PARC y otros. Mantiene la idea de que "todo es un objeto, es decir, cuando ingresamos a un entorno de SmallTalk, lo que hacemos es enviarles "mensajes" para esperar una respuesta.
 Al considerar todos los elementos como objetos, podemos decir que éstos tiene 4 características comunes:
 Memoria Propia, Comunicación con otros objetos, Posibilidad de "heredar" las características de otros objetos, Posibilidad de procesamiento.
 
