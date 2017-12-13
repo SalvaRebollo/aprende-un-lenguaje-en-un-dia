@@ -55,7 +55,7 @@ Los orígenes de SmallTalk se encuentran en las invetigaciones para a creaciónn
 * Características
 SmallTalk es un lenguaje de programación orientado a objetos puro, con recolector de basura, también fue uno de los primeros lenguajes de programción gráficos, creado por Alan Kay de Xerox PARC y otros. Mantiene la idea de que "todo es un objeto2, es decir, cuando ingresamos a un entorno de smalltalk, lo que hacemos es enviarles "mensajes" para esperar una respuesta.
 Al considerar todos los elementos como objetos, podemos decir que éstos tiene 4 características comunes:
-- Memoria Propia
+-Memoria Propia
 -Comunicación con otros objetos
 -Posibilidad de "heredar" las características de otros objetos
 -Posibilidad de procesamiento.
