@@ -46,8 +46,6 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-<img width="200px" src="/Imágenes/customLogo.jpg">
-
 * ¿Cuándo se creó?
 Su desarrollo comenzó en 1969 y se hizo público en 1980.
 
@@ -61,8 +59,6 @@ Memoria Propia, Comunicación con otros objetos, Posibilidad de "heredar" las ca
 
 
 ## Herramientas de desarrollo
-
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
 
 Primero comprobamos que tenemos gst instalado, en la consola tecleamos:
 ```console
@@ -91,10 +87,12 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+:construction: Under development :construction:
 
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
+:construction: Under development :construction:
 
 ## Presentación de resultados
 
