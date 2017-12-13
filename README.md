@@ -120,7 +120,7 @@ espacios:=espacios-1.
 Transcript cr.
 ```
 
-<img width="720px" src="/Imágenes/piramide.png">
+<img width="720px" src="/imagenes/piramide.png">
 
 ### 3. Arrays y números aleatorios :construction: Under development :construction:
 
