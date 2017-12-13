@@ -88,6 +88,38 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
 
+```Smalltalk
+|altura alturaIntroducida espacios i j| 
+altura:=1.
+Transcript show:'Introduce una altura:'.
+alturaIntroducida:=stdin nextLine asInteger.
+espacios:=alturaIntroducida-1.
+i:=0.
+j:=1.
+
+[altura <= alturaIntroducida] whileTrue:[ 
+	i:=1.
+	[i<=espacios] whileTrue:[ 
+ 	
+	Transcript show:' '.
+	
+ 	i:=i+1.
+	].
+
+	j:=1.
+	[j<(altura*2)] whileTrue:[ 
+ 	
+	Transcript show:'*'.
+
+ 	j:=j+1.
+	].
+Transcript cr.
+altura:=altura+1.
+espacios:=espacios-1.
+].
+Transcript cr.
+```
+
 ### 3. Arrays y números aleatorios :construction: Under development :construction:
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
