@@ -74,7 +74,7 @@ $ sudo apt-get install gnu-smalltalk
 
 Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
 
-### 1. ¡Hola mundo!
+### 1. ¡Hola mundo! :heavy_check_mark:
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
@@ -84,15 +84,13 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 'Hola Mundo!' printNl !
 ```
 
-### 2. Pirámide
+### 2. Pirámide :construction: Under development :construction:
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
-:construction: Under development :construction:
 
-### 3. Arrays y números aleatorios
+### 3. Arrays y números aleatorios :construction: Under development :construction:
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
-:construction: Under development :construction:
 
 ## Presentación de resultados
 
